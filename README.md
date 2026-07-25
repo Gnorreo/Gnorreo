@@ -20,7 +20,7 @@ focus:
   > music
 
 status:
-  > building.
+  > Making magic.
 ```
 ```text
 keep building.

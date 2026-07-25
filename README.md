@@ -21,8 +21,8 @@ focus:
 
 status:
   > building.
-
-
-
+```
+```text
 keep building.
 ```
+
